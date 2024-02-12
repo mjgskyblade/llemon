@@ -1,5 +1,5 @@
 {
-  "name": "meta-front-end-developer-capstone",
+  "name": "llemon",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
