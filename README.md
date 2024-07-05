@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "name": "llemon",
   "version": "0.1.0",
@@ -43,3 +44,7 @@
     ]
   }
 }
+=======
+# llemon
+Recreated, my llemon repository in git
+>>>>>>> adcdc064aa3ceeb9bd75080e2ebd719055d30b2c
