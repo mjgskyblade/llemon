@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/llemon/static/css/main.b81d0474.css",
+    "main.js": "/llemon/static/js/main.7c990e99.js",
+    "static/media/chefs-mario-and-adrian_a.jpg": "/llemon/static/media/chefs-mario-and-adrian_a.baf0d2e31dc6977f913f.jpg",
+    "static/media/chefs-mario-and-adrian_b.jpg": "/llemon/static/media/chefs-mario-and-adrian_b.5d8cccd399ab68c5c40b.jpg",
+    "static/media/greek-salad.jpg": "/llemon/static/media/greek-salad.25fc793faeb3d58ed9fb.jpg",
+    "static/media/bruschetta.jpg": "/llemon/static/media/bruschetta.d54e450bda5efcf06010.jpg",
+    "static/media/restaurant-food.jpg": "/llemon/static/media/restaurant-food.827fb0bfe6f625329f41.jpg",
+    "static/media/lemon-dessert.jpg": "/llemon/static/media/lemon-dessert.a146cfc0ccf8ce82fae4.jpg",
+    "static/media/customer2.jpg": "/llemon/static/media/customer2.d25d06b47dc9f66c22f7.jpg",
+    "static/media/logo-white.png": "/llemon/static/media/logo-white.d09eb2af6c5a2225eedf.png",
+    "static/media/customer4.jpg": "/llemon/static/media/customer4.2dd0b99f21a611542133.jpg",
+    "static/media/customer3.jpg": "/llemon/static/media/customer3.58bcef0e9c2f74e2a5fa.jpg",
+    "static/media/customer1.jpg": "/llemon/static/media/customer1.cc69ae0b323fdbaed94e.jpg",
+    "static/media/logo.png": "/llemon/static/media/logo.e68246686f716ff6e5d8.png",
+    "index.html": "/llemon/index.html",
+    "main.b81d0474.css.map": "/llemon/static/css/main.b81d0474.css.map",
+    "main.7c990e99.js.map": "/llemon/static/js/main.7c990e99.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b81d0474.css",
+    "static/js/main.7c990e99.js"
+  ]
+}
