@@ -27,7 +27,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://your-username.github.io/llemon",
+  "homepage": "https://mjgskyblade.github.io/llemon",
   "eslintConfig": {
     "extends": [
       "react-app",
